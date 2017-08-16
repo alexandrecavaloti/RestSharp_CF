@@ -1,0 +1,30 @@
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Debug\RestSharp.CF.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Debug\RestSharp.CF.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Debug\System.Data.OracleClient.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Debug\System.Transactions.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Debug\System.EnterpriseServices.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Debug\System.Web.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\obj\Debug\RestSharp.CF.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\obj\Debug\RestSharp.CF.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\ExtrafarmaColetor\RestSharp.CF\bin\Debug\RestSharp.CF.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\ExtrafarmaColetor\RestSharp.CF\bin\Debug\RestSharp.CF.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\ExtrafarmaColetor\RestSharp.CF\bin\Debug\System.Data.OracleClient.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\ExtrafarmaColetor\RestSharp.CF\bin\Debug\System.Transactions.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\ExtrafarmaColetor\RestSharp.CF\bin\Debug\System.EnterpriseServices.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\ExtrafarmaColetor\RestSharp.CF\bin\Debug\System.Web.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\ExtrafarmaColetor\RestSharp.CF\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\ExtrafarmaColetor\RestSharp.CF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\ExtrafarmaColetor\RestSharp.CF\obj\Debug\RestSharp.CF.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\ExtrafarmaColetor\RestSharp.CF\obj\Debug\RestSharp.CF.pdb
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Debug\RestSharp.CF.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Debug\RestSharp.CF.pdb
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Debug\System.Data.OracleClient.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Debug\System.Transactions.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Debug\System.EnterpriseServices.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Debug\System.Web.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\obj\Debug\ResolveAssemblyReference.cache
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\obj\Debug\RestSharp.CF.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\obj\Debug\RestSharp.CF.pdb

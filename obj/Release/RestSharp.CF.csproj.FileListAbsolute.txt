@@ -1,0 +1,20 @@
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Release\RestSharp.CF.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Release\RestSharp.CF.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Release\System.Data.OracleClient.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Release\System.Transactions.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Release\System.EnterpriseServices.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Release\System.Web.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\bin\Release\System.EnterpriseServices.Wrapper.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\obj\Release\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\obj\Release\RestSharp.CF.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\SmartDeviceProject3\RestSharp.CF\obj\Release\RestSharp.CF.pdb
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Release\RestSharp.CF.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Release\RestSharp.CF.pdb
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Release\System.Data.OracleClient.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Release\System.Transactions.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Release\System.EnterpriseServices.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Release\System.Web.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\bin\Release\System.EnterpriseServices.Wrapper.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\obj\Release\ResolveAssemblyReference.cache
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\obj\Release\RestSharp.CF.dll
+C:\Git\Extrafarma-ProjetoRaiz\ExtrafarmaColetor\RestSharp.CF\obj\Release\RestSharp.CF.pdb
